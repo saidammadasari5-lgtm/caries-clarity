@@ -1,0 +1,4 @@
+project_id = "eobmfdiolgefgitqjwyw"
+
+[functions.dental-chat]
+verify_jwt = false
